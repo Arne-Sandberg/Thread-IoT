@@ -13,8 +13,7 @@
             "C:/OpenOCD-20181130/share/openocd/scripts/interface/cmsis-dap.cfg",
             "C:/OpenOCD-20181130/share/openocd/scripts/target/nrf52-var.cfg"
         ],
-        "armToolchainPath":
-        "C:/Users/Dillon/.particle/toolchains/gcc-arm/5.3.1/bin/"
-        }
+        "armToolchainPath": "C:/Users/z003ruax/.particle/toolchains/gcc-arm/5.3.1/bin/"
+    }
     ]
 }
