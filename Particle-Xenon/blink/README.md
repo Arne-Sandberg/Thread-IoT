@@ -1,12 +1,12 @@
-# Set up for Windows
-https://community.particle.io/t/how-to-use-the-debugger-with-xenon-boron/46036/
+# Set up Particle Debugger for Windows
+[Adapted from this forum post.](https://community.particle.io/t/how-to-use-the-debugger-with-xenon-boron/46036/)
 
-1. install OpenOCD  http://gnutoolchains.com/arm-eabi/openocd/
+1. [Install OpenOCD](http://gnutoolchains.com/arm-eabi/openocd/)
     * Rememeber to add the bin folder to the PATH in environment variables
 
-2. Copy the OpenOCD target file nrf52-var.cfg12 inside external
+2. Copy the OpenOCD target file nrf52-var.cfg12 from inside external to OpenOCD install directory
 
-3. download Visual Studio Code.
+3. Download Visual Studio Code.
 
 4. Apply for, download, and install the Particle Workbench, Themes, and Code Snippets extensions
 
