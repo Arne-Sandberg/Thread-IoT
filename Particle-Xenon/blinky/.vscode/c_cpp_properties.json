@@ -38,7 +38,6 @@
                 "_DEBUG",
                 "UNICODE",
                 "_UNICODE",
-                "BOARD_SPARKFUN_NRF52840_MINI",
                 "BSP_DEFINES_ONLY",
                 "CONFIG_GPIO_AS_PINRESET",
                 "FLOAT_ABI_HARD",
