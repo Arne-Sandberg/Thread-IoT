@@ -1,0 +1,23 @@
+{
+    "settings": {
+        "extensions.ignoreRecommendations": true,
+        "C_Cpp.default.configurationProvider": "particle.particle-vscode-core",
+        "files.associations": {
+            "*.ino": "cpp",
+        },
+        "particle.firmwareVersion": "0.8.0-rc.27",
+        "particle.targetPlatform": "xenon",
+        "particle.targetDevice": "Xen1Mesh",
+        "cortex-debug.armToolchainPath":
+         "C:/Users/Dillon/.particle/toolchains/gcc-arm/5.3.1/bin/",
+        "cortex-debug.openocdPath": "C:/openocd-20181130/bin/openocd.exe"        
+    },
+    "folders": [
+        {
+            "path": "."
+        }
+    ],
+    "particle.firmwareVersion": "0.8.0-rc.27",
+    "particle.targetPlatform": "xenon",
+    "C_Cpp.default.configurationProvider": "particle.particle-vscode-core"
+}

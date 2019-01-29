@@ -1,0 +1,4 @@
+# compiled code
+*target*
+*blink.cpp
+*.cortex-debug*

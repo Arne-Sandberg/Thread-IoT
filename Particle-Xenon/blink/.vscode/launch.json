@@ -1,0 +1,20 @@
+{
+    "version": "0.1.0",
+    "configurations": [
+        {
+        "name": "Debug (OpenOCD)",
+        "cwd": "${workspaceRoot}",
+        "executable": "./target/blink.elf",
+        "interface": "swd",
+        "request": "attach",
+        "type": "cortex-debug",
+        "servertype": "openocd",
+        "configFiles": [
+            "C:/OpenOCD-20181130/share/openocd/scripts/interface/cmsis-dap.cfg",
+            "C:/OpenOCD-20181130/share/openocd/scripts/target/nrf52-var.cfg"
+        ],
+        "armToolchainPath":
+        "C:/Users/Dillon/.particle/toolchains/gcc-arm/5.3.1/bin/"
+        }
+    ]
+}
