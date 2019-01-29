@@ -1,4 +1,4 @@
-PROJECT_NAME     := blinky_pca10056
+PROJECT_NAME     := blinky
 TARGETS          := nrf52840_xxaa
 OUTPUT_DIRECTORY := _build
 
