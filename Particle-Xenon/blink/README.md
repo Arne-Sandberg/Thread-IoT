@@ -2,13 +2,16 @@
 [Adapted from this forum post.](https://community.particle.io/t/how-to-use-the-debugger-with-xenon-boron/46036/)
 
 1. [Install OpenOCD](http://gnutoolchains.com/arm-eabi/openocd/)
-    * Rememeber to add the bin folder to the PATH in environment variables
+    * Remember to add the bin folder to the PATH in environment variables
 
 2. Copy the OpenOCD target file nrf52-var.cfg12 from inside external to OpenOCD install directory
 
 3. Download Visual Studio Code.
 
 4. Apply for, download, and install the Particle Workbench, Themes, and Code Snippets extensions
+    * Remember to add the bin folder to the PATH in environment variables
+    * C:\Users\USERNAME\.particle\toolchains\gcc-arm\5.3.1\bin
+
 
 5. Use the included settings files
     * If you change "request": to "launch" type, it does not work properly, the Debugging session gets lost and corrupts the Particle Device OS. You will then have to re-flash the Particle Device OS!
