@@ -2,3 +2,4 @@
 *target*
 *blink.cpp
 *.cortex-debug*
+*_build*

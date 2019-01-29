@@ -1,0 +1,6 @@
+{
+    "files.associations": {
+        "nrf_delay.h": "c",
+        "boards.h": "c"
+    }
+}
