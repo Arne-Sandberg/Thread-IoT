@@ -2,6 +2,9 @@
 1. Install ARM GNU for Windows
     * https://developer.arm.com/open-source/gnu-toolchain/gnu-rm/downloads
     * NOT the SHA1 or SHA2 files
+    * Need this version for objcopy bug:
+        * https://github.com/gnu-mcu-eclipse/arm-none-eabi-gcc/releases/tag/v8.2.1-1.2
+        * https://bugs.launchpad.net/gcc-arm-embedded/+bug/1810274
 2. Install nRF5 SDK for Windows
     * https://www.nordicsemi.com/eng/Products/Bluetooth-low-energy/nRF5-SDK
     * copied and renamed into C:\nRF5
