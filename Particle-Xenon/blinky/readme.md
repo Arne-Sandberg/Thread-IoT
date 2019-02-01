@@ -14,3 +14,9 @@
     GNU_VERSION := 8.2.1
     GNU_PREFIX := arm-none-eabi
     ```
+4.  Install MinGW for `make`
+    * http://www.mingw.org/
+    ```
+    $ which make
+    /c/MinGW/bin/make
+    ```
