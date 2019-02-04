@@ -15,6 +15,8 @@
     ```
 4.  Install MinGW for `make`
     * http://www.mingw.org/
+    * add `C:\MinGW\bin` to PATH
+    * make a copy of `mingw32-make.exe` and call it `make.exe`
     ```
     $ which make
     /c/MinGW/bin/make
